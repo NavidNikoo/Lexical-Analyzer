@@ -1,0 +1,6 @@
+# ninja log v6
+1	424	1757443745797887086	CMakeFiles/LexicalAnalysis.dir/main.cpp.o	6cf279e1dcd11439
+425	507	1757443746221454759	LexicalAnalysis	fab83c68b7d89b6
+3	442	1757444044360454030	CMakeFiles/LexicalAnalysis.dir/Lexer.cpp.o	70dc1fe4051a7a04
+3	466	1757444044360034940	CMakeFiles/LexicalAnalysis.dir/main.cpp.o	6cf279e1dcd11439
+466	544	1757444044823406508	LexicalAnalysis	89a1bfdd3df15751
