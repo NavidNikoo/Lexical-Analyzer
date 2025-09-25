@@ -9,7 +9,7 @@
 					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.30"
+						"string" : "3.20"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "LexicalAnalysis::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-LexicalAnalysis-Debug-42dbb94eb1e141b12aaa.json",
+					"jsonFile" : "target-LexicalAnalysis-Debug-a5570c0780e2ee566215.json",
 					"name" : "LexicalAnalysis",
 					"projectIndex" : 0
 				}
